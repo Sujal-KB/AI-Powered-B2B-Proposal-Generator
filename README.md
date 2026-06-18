@@ -317,7 +317,7 @@ containing the FAISS vector database.
 Run:
 
 ```
-python proposal_generator.py
+streamlit run app.py
 ```
 
 The system will:

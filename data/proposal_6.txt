@@ -1,0 +1,62 @@
+
+XYZ Cloud Solutions Pvt Ltd
+
+CLIENT PROPOSAL
+
+Project:
+AI-Based Recruitment Automation Platform
+
+Industry:
+Human Resources
+
+Client Challenge:
+The organization receives thousands of resumes every month.
+Recruiters manually review candidate profiles.
+
+Problems:
+- Slow screening process
+- Inconsistent evaluation
+- High recruiter workload
+
+Objective:
+Automate candidate screening using AI.
+
+Proposed Solution:
+AI Recruitment Assistant
+
+Features:
+- Resume parsing
+- Candidate ranking
+- Skill matching
+- Interview scheduling
+
+Technology:
+Python
+Natural Language Processing
+Large Language Models
+PostgreSQL
+
+Workflow:
+Resume Upload
+      |
+Information Extraction
+      |
+Candidate Matching
+      |
+Recruiter Dashboard
+
+Timeline:
+12 Weeks
+
+Deliverables:
+- Resume analyzer
+- Candidate ranking system
+- Recruitment dashboard
+
+Expected Benefits:
+- 70% faster screening
+- Better candidate matching
+- Reduced manual effort
+
+Estimated Cost:
+$40,000

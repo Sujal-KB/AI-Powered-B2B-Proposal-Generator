@@ -1,0 +1,87 @@
+
+XYZ Cloud Solutions Pvt Ltd
+
+CLIENT PROPOSAL
+
+Project:
+Enterprise Banking AI Customer Support Assistant
+
+Industry:
+Banking and Financial Services
+
+Client Requirement:
+The bank receives more than 50,000 customer support requests monthly related to:
+- Account information
+- Loan queries
+- Credit card issues
+- Transaction support
+
+Current Challenges:
+1. High dependency on call center agents.
+2. Customers wait several minutes for responses.
+3. Support team handles repetitive queries.
+4. Limited support availability outside working hours.
+
+Business Goals:
+Create an AI assistant that provides instant customer support while maintaining security standards.
+
+Proposed Solution:
+AI Banking Assistant:
+
+Capabilities:
+- Answer banking FAQs
+- Explain banking products
+- Assist loan eligibility queries
+- Provide transaction guidance
+- Escalate complex issues to human agents
+
+Architecture:
+Customer Interface
+        |
+        |
+AI Conversation Engine
+        |
+Knowledge Retrieval System
+        |
+Bank Information Database
+
+Technology Stack:
+Backend:
+Python
+
+AI Framework:
+LangChain
+
+Vector Database:
+ChromaDB
+
+Database:
+Oracle/PostgreSQL
+
+Cloud:
+Azure
+
+Security:
+- Role based access control
+- Encrypted communication
+- Audit logging
+
+Implementation Timeline:
+20 Weeks
+
+Deliverables:
+- AI chatbot
+- Knowledge base system
+- Agent escalation module
+- Analytics dashboard
+
+Expected Results:
+- 50% reduction in repetitive tickets
+- 24/7 customer assistance
+- Improved customer satisfaction
+
+Commercial Estimate:
+Implementation:
+$75,000
+Annual Support:
+$10,000
